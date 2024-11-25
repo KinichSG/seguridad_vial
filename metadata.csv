@@ -1,0 +1,9 @@
+var,var_name,img
+acci,Accidentes fatales,assets/acci.png
+fata,Víctimas fatales,assets/fata.png
+peat,Peatones fallecidos,assets/peat.png
+cicl,Ciclistas fallecidos,assets/cicl.png
+cint,Conductores sin cinturón de seguridad,assets/cint.png
+alie,Conductores con aliento alcohólico,assets/alie.png
+edad,Conductores menores de 30 años,assets/edad.png
+sexo,Conductores hombres,assets/sexo.png
